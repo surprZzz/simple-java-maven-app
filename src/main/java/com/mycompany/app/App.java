@@ -12,6 +12,7 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println(MESSAGE);
+        System.out.println("推送分支");
     }
 
     public String getMessage() {
